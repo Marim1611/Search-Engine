@@ -1,5 +1,5 @@
 # Search Engine
-
+Search engine project with recrawlling and indexer implementations using java with simple UI.
 ## Folder Structure
 
 The workspace contains two folders by default, where:
